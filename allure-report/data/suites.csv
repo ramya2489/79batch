@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3","logout","chromium","2026-10-15","passed","2026-10-15","","TC_hooks.spec.ts","",""
+"","4","login","chromium","2026-10-15","passed","2026-10-15","","TC_hooks.spec.ts","",""
+"","10874","TC001","webkit","2026-10-15","passed","2026-10-15","","TC001.spec.ts","",""
+"","17403","TC001","firefox","2026-10-15","passed","2026-10-15","","TC001.spec.ts","",""
+"","10783","TC001","chromium","2026-10-15","passed","2026-10-15","","TC001.spec.ts","",""

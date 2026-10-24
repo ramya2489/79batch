@@ -1,0 +1,3 @@
+open application
+logout complted
+close application

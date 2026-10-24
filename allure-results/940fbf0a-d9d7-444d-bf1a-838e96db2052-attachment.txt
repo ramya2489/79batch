@@ -1,0 +1,4 @@
+Application opened
+wait for 3 seconds
+login completed
+wait for 3 seconds
