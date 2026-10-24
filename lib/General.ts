@@ -10,6 +10,7 @@ await this.page.locator(this.textbox_username).fill(this.username)
 await this.page.locator(this.textbox_password).fill(this.password)
 await this.page.locator(this.button_login).click()
 console.log("login completed")
+console.log("login has been complted")
 }
 /*async deleteemp(){
 const frame =  this.page.frameLocator(this.frame)
